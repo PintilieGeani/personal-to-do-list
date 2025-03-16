@@ -1,0 +1,28 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Utils */
+body{
+    background-color: lightskyblue;
+}
+
+/* Header */
+
+header{
+    display: inline;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+h1{
+    display: inline;
+    vertical-align: middle;
+    font-size: 70px;
+}
+#logo{
+    height: 70px;
+    vertical-align: middle;
+}
