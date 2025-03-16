@@ -62,3 +62,13 @@ h1{
     font-size: 15px;
     margin-bottom: 60px;
 }
+
+/* Lista */
+
+ul{
+    list-style-position: inside;
+    content: "&blacktriangledown";
+}
+h2{
+    display: inline;
+}
